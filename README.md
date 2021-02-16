@@ -7,7 +7,7 @@ wget https://raw.githubusercontent.com/Stakement/SamOraiScript/main/SamOraiScrip
 
 ```
 function test() {
-  console.log("wget https://raw.githubusercontent.com/Stakement/SamOraiScript/main/SamOraiScript.sh && chmod +x ./SamOraiScript.sh");
+  console.log("notice the blank line before this function?");
 }
 ```
 
