@@ -1,6 +1,6 @@
-# OraiChain
+# SamOraiScript
+Step 1
+wget https://raw.githubusercontent.com/Stakement/SamOraiScript/main/SamOraiScript.sh && chmod +x ./SamOraiScript.sh
 
-
-wget -O./SamOraiScript.sh  https://github.com/Stakement/SamOraiScript.git && chmod +x ./SamOraiScript.sh
-
-./Sam
+Step 2
+./SamOraiScript.sh
