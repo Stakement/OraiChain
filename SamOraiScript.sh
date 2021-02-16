@@ -114,8 +114,8 @@ fi
 for (( ; ; ));  do
 	clear; reset
 	echo -e "${GREEN}SamOraiScript (c) v0.1 2021 - Your laste choice was ($choice)${GREEN}"
-	echo -e " 1. Install docker"
-	echo -e " 2. Install and run orai"
+	echo -e " 1. Install Docker"
+	echo -e " 2. Install and run Orai"
 	echo -e " 3. Check if node has fully synced"
 	echo -e "    -----"
 	echo -e " 8. Unsinstall container and Orai node"
